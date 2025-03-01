@@ -18,13 +18,13 @@ Anãs Marrons:
 •	Massa: Geralmente têm entre 13 e 80 vezes a massa de Júpiter, o que as coloca acima da faixa planetária, mas abaixo das estrelas mais leves.
 Uma maneira simples de pensar nisso é que as anãs marrons estão no limite entre os mundos planetários e estelares, desempenhando um papel único no estudo da formação de sistemas estelares e planetários.
 
-Cria uma imagem de um cão robot?
+## Cria uma imagem de um cão robot?
 
   <img
-    src="./caorobot.png"
+    src="./inputs/caorobot.png"
     alt="Cão Robot"
-    width="500"
-    height="350"
+    width="600"
+    height="500"
   />
 
 

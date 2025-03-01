@@ -25,10 +25,10 @@ Uma maneira simples de pensar nisso é que as anãs marrons estão no limite ent
     alt="Cão Robot"
     width="600"
     height="500"
-  />
+  />  
 
 
-Uma ferramenta de reconhecimento de texto (OCR) poderia identificar e decodificar essas informações. O sucesso do reconhecimento depende da clareza, do contraste, da linguagem utilizada e de como o texto foi estilizado.
+Uma ferramenta de reconhecimento de texto (OCR) pode identificar e decodificar as informações das imagens. O sucesso do reconhecimento depende da clareza, do contraste, da linguagem utilizada e de como o texto foi estilizado.
 
 ## Como o OCR é aplicado em tecnologia robótica?
 
